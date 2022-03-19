@@ -1,0 +1,12 @@
+sjkdfk 
+lkskfj
+
+
+Metodenya git clone dari remote repo ke local repo. 
+
+Sekarang saatnya revisi 1. 
+
+revisi 1 dimulai setelah add git.
+
+    Masih revisi pertama. 
+
